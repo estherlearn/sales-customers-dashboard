@@ -73,3 +73,10 @@ The customer dashboard aims to provide an overview of customer data, trends, and
   - **Location information**: region, state, city  
 
 ---
+## Preview:
+### Sales Dashboard
+<img width="2456" height="1655" alt="image" src="https://github.com/user-attachments/assets/ed9c45ec-3208-439d-b682-68aff1f96329" />
+
+### Customers Dashboard
+<img width="2474" height="1648" alt="image" src="https://github.com/user-attachments/assets/f0c6efe0-76ab-422c-a3e0-c1cc74a80d6a" />
+
